@@ -15,22 +15,6 @@ FormulAI is an AI-driven tool that helps cosmetic scientists and product develop
 
 ---
 
-## 📂 Project Structure
-
-formulai/
-├── app.py # Streamlit frontend
-├── rag_formulai.py # RAG pipeline logic
-├── generate_chunks.py # Parses CSV + creates enriched chunks
-├── formulations_filled_parts.csv # Raw input data
-├── requirements.txt # Python dependencies
-├── venv/ # Local virtual environment
-└── faiss_index/
-├── formulai.index # FAISS vector index
-├── formulai_enriched_chunks.json # Chunked data + metadata
-
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
