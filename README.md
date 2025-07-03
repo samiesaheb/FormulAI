@@ -34,7 +34,7 @@ streamlit run app.py
 Make sure Ollama is running and that you’ve pulled a model like:
 
 ollama pull llama3
-
+```
 🛠 Tech Stack
 LLM: Ollama (LLaMA 3, Mistral, etc.)
 
